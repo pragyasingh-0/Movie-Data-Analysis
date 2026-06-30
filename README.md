@@ -196,14 +196,3 @@ jupyter
 
 ---
 
-## 👩‍💻 Author
-
-**Lia Kim**
-
-Aspiring Data Analyst | Python Enthusiast | AI & Machine Learning Learner
-
----
-
-## ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
